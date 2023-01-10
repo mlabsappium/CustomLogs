@@ -1,0 +1,7 @@
+﻿{  
+    
+        "ApplicationName": 	"CCOM",   
+        "Environment":			    "TST1",
+	    "TestDataSourceFromExcel":  "No"
+	    
+} 
