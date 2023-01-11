@@ -58,6 +58,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCases\\TestCase2.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "67f4cd6e-5212-4e03-9fd5-7440c6107320",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCases\\TestCase3.xaml"
       }
     ],
     "modernBehavior": true
